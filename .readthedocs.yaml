@@ -1,0 +1,6 @@
+version: 0.1
+
+build:
+  os: "ubuntu"
+  tools:
+    python: "3.7.6"
