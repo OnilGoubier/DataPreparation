@@ -21,8 +21,3 @@ Structure and processing flow
 
 OBS data from a campaign, are initially processed in an OBS park (marina-park). These data are then sent to NodeA (marina-node) for the next processing needed before being sent to the RESIF.
 
-Tools and parameters
---------------------
-
-Tools / programs from sdpchain (
-
